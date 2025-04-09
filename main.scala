@@ -9,6 +9,6 @@ public class Hello {
         System.out.println("N, 6, health, existential, Manufacturing");
         System.out.println("CN, 7, travel, musical, Transport/Post/Storage");
         System.out.println("CE, 8, fame, naturalistic, Real Estate + Renting + Hotels + Restaurants");
-        System.out.println("NG, 9, family, linguistic, >Wholesale/Retail Trade");
+        System.out.println("NG, 9, family, linguistic, Wholesale/Retail Trade");
     }
 }
