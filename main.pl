@@ -11,3 +11,4 @@ print("N, 6, health, existential, Manufacturing\n");
 print("CN, 7, travel, musical, Transport/Post/Storage\n");
 print("CE, 8, fame, naturalistic, Real Estate + Renting + Hotels + Restaurants\n");
 print("NG, 9, family, linguistic, Wholesale/Retail Trade");
+//Multiply each side by 2 to account for 5-letter mbti types, dere styles, and etc.
